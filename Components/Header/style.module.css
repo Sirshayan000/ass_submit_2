@@ -6,3 +6,11 @@
     align-items: center;
     justify-content: center;
 }
+.navbar  li{
+    color: white;
+    list-style-type:none;
+    text-decoration: none;
+    display: inline;
+    margin-left: 40px;
+    font-weight: 900%;
+}
