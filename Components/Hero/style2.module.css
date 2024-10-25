@@ -1,0 +1,10 @@
+.hero{
+    height: 600px;
+    background-image:url('/hero3.jpeg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+
+} 
