@@ -1,4 +1,4 @@
-export default function HeaderPage(){
+export default function HeroPage(){
     return(
       <div>
         
